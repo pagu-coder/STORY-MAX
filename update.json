@@ -1,9 +1,9 @@
 {
-  "enabled": false,
-  "package": "com.sonyliv",
-  "current_version": "6.34.4",
+  "enabled": true,
+  "package": "com.storymax.reels.shorts",
+  "current_version": "1.2.3",
   "latest_version": "999.999",
-  "force_update": false,
+  "force_update": true,
   "logo_url": "",
   "headline": "🔥🔐 New Update Available 🔐🔥",
   "headline_color": "#000000",
